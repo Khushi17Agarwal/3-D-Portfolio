@@ -24,14 +24,17 @@ Back Profile Button: Click the button with the class .back-profile to return to 
 
 **JavaScript Overview**
 Page Turning: Handles page transitions when clicking next or previous buttons.
+
 ![image](https://github.com/user-attachments/assets/2998c90e-f319-449a-84ce-708cb81e4d75)
 
 
 Contact Me Button: Adds a transition effect to highlight the contact section.
+
 ![image](https://github.com/user-attachments/assets/b00d16a6-a3c3-43af-8af8-d22a018f3af7)
 
 
 Back Profile Button: Navigates back to the profile page with a smooth transition.
+
 ![image](https://github.com/user-attachments/assets/a3ea5f6f-8445-4892-936a-fdc6d926b618)
 
 Opening Animation: Provides initial animations for the cover and pages.
